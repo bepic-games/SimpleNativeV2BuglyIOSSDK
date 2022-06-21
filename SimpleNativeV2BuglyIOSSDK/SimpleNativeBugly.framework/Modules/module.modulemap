@@ -1,0 +1,6 @@
+framework module SimpleNativeBugly {
+  umbrella header "SimpleNativeBugly.h"
+
+  export *
+  module * { export * }
+}
